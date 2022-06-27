@@ -4,6 +4,8 @@ The primary aim of this group is for Australian [MISP](https://www.misp-project.
 
 ## Event Format
 
+All talks are TLP:White.
+
 Online meeting schedule is TBA.
 
 ## Social Media
