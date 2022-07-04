@@ -13,3 +13,11 @@ Online meeting schedule is TBA.
  - [Twitter](https://twitter.com/auMISP)
 
 ## Past Events
+
+## Useful MISP Project Resources
+
+The MISP project has provided a wealth of information and resources in their git repositories on GitHub. Here are a couple to get you started if your new to using MISP.
+
+* https://github.com/MISP/MISP-training
+* https://github.com/MISP/misp-docker
+* https://www.circl.lu/doc/misp/
